@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @DrxyYT aka Gabe
-- 👀 I’m interested in Wii U, 3ds and Discord Bot Development
-- 🌱 I’m trying to learn Python :)
-- 💞️ I’m looking to collaborate on Big 3DS & Wii U Projects like Pretendo & CTGP-7
-- 📫 How to reach me: Discord: defnot.drxy
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: None at the moment
+# Welcome to My GitHub Profile!
+
+![My Profile Picture](https://imgur.com/a/F5kuXb6)
+
+## About Me
+I'm a 16 yr old Python coder that makes Discord bots for free!
+Im open to learning new ways!
+
+## Skills
+- Python
+- HTML
+
+## Recent Projects
+1. [Nyxx - My Public Discord Bot](https://github.com/fwdrxyy/Nyxx)
+2. [My Website!](https://github.com/fwdrxyy/fwdrxyy.github.io)
+
+## GitHub Stats
+![Me!](https://github-readme-stats.vercel.app/api?username=fwdrxyy&theme=default&show_icons=true&hide_border=true&count_private=true)
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fwdrxyy&theme=default&show_icons=true&hide_border=true&layout=compact)
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=fwdrxyy&theme=default&hide_border=true)
 
 <!---
 DrxyYT/DrxyYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
