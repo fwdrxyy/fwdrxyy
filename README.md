@@ -1,5 +1,6 @@
 ## Welcome to my proile!
-![My profile picture](https://github.com/user-attachments/assets/5f870c02-abf8-4fbd-b96f-bae70817594b)
+![My profile picture](https://github.com/user-attachments/assets/1e69e173-730b-4133-9978-235f76f01e7e)
+)
 
 
 ## About Me
