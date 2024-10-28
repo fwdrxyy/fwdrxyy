@@ -1,7 +1,3 @@
-# Welcome to My GitHub Profile!
-
-![My Profile Picture](https://imgur.com/IptUCQy)
-
 ## About Me
 I'm a 16 yr old Python coder that makes Discord bots for free!
 Im open to learning new ways!
