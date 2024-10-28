@@ -1,6 +1,5 @@
 ## Welcome to my proile!
-![My profile picture]
-![image](https://imgur.com/a/horni-pfp-USBMpXw)
+![My profile picture](https://github.com/user-attachments/assets/5f870c02-abf8-4fbd-b96f-bae70817594b)
 
 
 ## About Me
