@@ -3,7 +3,7 @@
 
 
 ## About Me
-I'm a 17 yr old Python coder that makes Discord bots for free!
+I'm a 17 yr old Python coder that makes Discord bots in free time.
 Im open to learning new ways!
 
 ## My Skills
