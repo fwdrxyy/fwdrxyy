@@ -3,21 +3,21 @@
 
 
 ## About Me
-I'm a 16 yr old Python coder that makes Discord bots for free!
+I'm a 17 yr old Python coder that makes Discord bots for free!
 Im open to learning new ways!
 
-## Skills
+## My Skills
 - Python
-- HTML
+- Discord Bot Knowledge
+- ROBOTC (for School)
 
 ## Recent Projects
 1. [Nyxx - My Public Discord Bot](https://github.com/fwdrxyy/Nyxx)
-2. [My Website!](https://github.com/fwdrxyy/fwdrxyy.github.io)
 
 ## GitHub Stats
-![Me!](https://github-readme-stats.vercel.app/api?username=fwdrxyy&theme=default&show_icons=true&hide_border=true&count_private=true)
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fwdrxyy&theme=default&show_icons=true&hide_border=true&layout=compact)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=fwdrxyy&theme=default&hide_border=true)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=fwdrxyy&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fwdrxyy&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![Streak Stats](https://streak-stats.demolab.com?user=fwdrxyy&theme=dark&hide_border=true)
 
 <!---
 DrxyYT/DrxyYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
