@@ -1,6 +1,5 @@
 ## Welcome to my proile!
-![My profile picture](https://github.com/user-attachments/assets/dfcd8f1b-6f88-4948-bbd4-7105ab63fc05)
-
+![My profile picture](https://github.com/user-attachments/assets/d024938a-a4f5-4da8-8f0c-66a2949fd301)
 
 ## About Me
 I'm a 17 yr old Python coder that makes Discord bots in free time.
