@@ -12,6 +12,7 @@ Im open to learning new ways!
 
 ## Recent Projects
 1. [Nyxx - My Public Discord Bot](https://github.com/fwdrxyy/Nyxx)
+2. [LunaClient - My first legit Minecraft Wii U Client](https://github.com/fwdrxyy/LunaClient-Aroma)
 
 ## GitHub Stats
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=fwdrxyy&theme=dark&show_icons=true&hide_border=true&count_private=true)
